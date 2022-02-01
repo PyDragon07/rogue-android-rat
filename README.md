@@ -12,11 +12,14 @@ a small history about rogue
 
 Rogue was created by 2 guys 
 the first guy is called triangulum he is indian and has 20-30 yo
+
 the second guy is called HeXaGoNDev 
 
-they bith created rogue with the src of 2 other android rats
+they both created rogue with the src of 2 other android rats
 
 Hawkshaw & blackshades 
+
+HeXaGoNDev created blackshades alone btw
 
 ________________________________________
 
